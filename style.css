@@ -56,6 +56,7 @@ main {
   width: 100%;
   background-color: rgb(25, 25, 109);
   color: white;
+  overflow: scroll;
 }
 
 footer {
