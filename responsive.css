@@ -3,12 +3,12 @@
 }
 
 @media screen and (max-width: 576px) {
-  .no-mobile{
+  .no-mobile {
     display: none;
   }
-  .navicon{
-    text-align: center;
+  .navicon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
-
-
 }
