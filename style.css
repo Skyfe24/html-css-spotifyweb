@@ -4,3 +4,21 @@
     box-sizing: border-box;
     font-family: "PT Sans";
   }
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.main-container{
+    height: 100vh;
+    width: 200px;
+    background-color: black;
+    color: white;
+
+}
+.main-navbar{
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.flex{
+    display:flex
+}
