@@ -47,10 +47,19 @@ body {
 .flex {
   display: flex;
 }
+.flex-start{
+    justify-content: flex-start;
+    align-items: flex-start;
+}
 .column{
     flex-direction: column;
 }
-
+.navlogo{
+    width: 120px;
+}
+.navicon{
+    width:  35px;
+}
 main {
   height: calc(100vh - 160px);
   width: 100%;
