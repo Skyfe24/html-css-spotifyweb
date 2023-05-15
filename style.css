@@ -99,6 +99,12 @@ align-items: center;
 .margin-left20px{
     margin-left: 20px;
 }
+.img{
+    width: 100%;
+}
+.article{
+    text-align: center;
+}
 
 footer {
   background-color: rgb(79, 80, 85);
