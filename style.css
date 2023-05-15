@@ -78,6 +78,21 @@ main {
   color: white;
   overflow: auto;
 }
+.generes-wrap{
+   flex-wrap: wrap;
+   margin-top: 20px;
+   font-size: 12px;
+}
+.gap{
+    gap: 15px;
+}
+.justify-center{
+justify-content: center;
+}
+
+.align-center{
+align-items: center;
+}
 
 footer {
   background-color: rgb(79, 80, 85);
