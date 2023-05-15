@@ -64,6 +64,9 @@ body {
 .navlogo{
     width: 120px;
 }
+.litl-logo{
+    width: 31px;
+}
 .navicon{
     width:  30px;
     opacity: 0.7;
