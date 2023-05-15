@@ -136,3 +136,6 @@ font-size: 35px;
 .img{
     width: 100%;
 }
+.round{
+    border-radius: 50%;
+}
