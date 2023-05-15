@@ -81,8 +81,12 @@ main {
 .generes-wrap{
    flex-wrap: wrap;
    margin-top: 20px;
-   font-size: 12px;
+   font-size: 18px;
 }
+.wrap{
+    flex-wrap: wrap;
+}
+
 .gap{
     gap: 15px;
 }
@@ -99,11 +103,13 @@ align-items: center;
 .margin-left20px{
     margin-left: 20px;
 }
-.img{
-    width: 100%;
-}
+
+
 .article{
     text-align: center;
+    flex-basis: calc(100% /6);
+    padding: 15px;
+    
 }
 
 footer {
@@ -126,4 +132,7 @@ font-size: 35px;
 .crea{
     line-height: 65px;
     margin-left: 7px;
+}
+.img{
+    width: 100%;
 }
