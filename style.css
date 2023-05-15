@@ -93,6 +93,12 @@ justify-content: center;
 .align-center{
 align-items: center;
 }
+.margin-top20px{
+    margin-top: 20px;
+}
+.margin-left20px{
+    margin-left: 20px;
+}
 
 footer {
   background-color: rgb(79, 80, 85);
