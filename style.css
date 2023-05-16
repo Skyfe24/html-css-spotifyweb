@@ -93,7 +93,9 @@ main {
 .justify-center{
 justify-content: center;
 }
-
+.space-between{
+  justify-content: space-between;
+}
 .align-center{
 align-items: center;
 }
@@ -138,4 +140,8 @@ font-size: 35px;
 }
 .round{
     border-radius: 50%;
+}
+
+.mini-img{
+  width: 20px;
 }
